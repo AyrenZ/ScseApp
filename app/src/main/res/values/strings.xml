@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">List App</string>
+
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.99</item>
+        <item>$0.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh peaches</item>
+        <item>Fresh salad tomatoes from Ohio</item>
+        <item> Fresh yellow squash from california</item>
+    </string-array>
+
+    <string-array name="tutorialRooms">
+        <item>Select TR</item>
+        <item>TR1</item>
+        <item>TR2</item>
+        <item>TR3</item>
+        <item>TR4</item>
+        <item>TR5</item>
+        <item>TR6</item>
+    </string-array>
+
+    <string-array name="tutorialTimings">
+        <item>Select Time</item>
+        <item>08:00 - 10:00</item>
+        <item>10:00 - 12:00</item>
+        <item>12:00 - 14:00</item>
+        <item>14:00 - 16:00</item>
+        <item>16:00 - 18:00</item>
+    </string-array>
+    <string name="title_activity_broadcast_message">BroadcastMessageActivity</string>
+    <string name="goto_broadcast">enter a message</string>
+    <string name="button_send">Send</string>
+</resources>
